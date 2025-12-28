@@ -1,0 +1,20 @@
+{
+  "name": "hello-world-app",
+  "version": "1.0.0",
+  "description": "Simple Hello World Node.js application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "hello-world",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
+
